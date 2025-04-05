@@ -1,4 +1,12 @@
-## Hi there 👋
+## Peterson Matheus Leonel Alves 
+🌈 Estou fazendo curso de Java Fundamentals no SENAI
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = 30 width = 30 />       
+
+
+
+
 
 <!--
 **PetersonLeonel/PetersonLeonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
